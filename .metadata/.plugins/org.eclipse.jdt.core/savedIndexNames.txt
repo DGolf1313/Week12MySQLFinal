@@ -10,7 +10,6 @@ INDEX VERSION 1.131+C:\Users\sbotc\Promineo\Week12\MySQLFinalProject\.metadata\.
 3338446773.index
 4256137226.index
 400678805.index
-4275669669.index
 939675352.index
 1865797976.index
 2708581413.index
