@@ -22,7 +22,7 @@ public class TestDemo {
 	
 	
 	//Find a random number between 1 and 10.
-	private int getRandomInt() {
+	int getRandomInt() {
 		Random random = new Random();
 		return random.nextInt(10) + 1;
 	}
